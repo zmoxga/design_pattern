@@ -22,7 +22,6 @@
         <module>prototype</module>
         <module>singleton</module>
         <module>proxy</module>
-        <module></module>
     </modules>
     <dependencies>
         <dependency>
